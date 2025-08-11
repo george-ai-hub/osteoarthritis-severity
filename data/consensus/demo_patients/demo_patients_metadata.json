@@ -1,0 +1,391 @@
+{
+  "DEMO_N001_img_0177.png": {
+    "patient_id": "DEMO_N001",
+    "name": "Sarah Chen",
+    "age": 28,
+    "gender": "Female",
+    "occupation": "Marathon Runner",
+    "symptoms": [
+      "None",
+      "Preventive screening"
+    ],
+    "medical_history": [
+      "No significant history"
+    ],
+    "medications": [
+      "Multivitamin"
+    ],
+    "activity_level": "Very High",
+    "bmi": 20.5,
+    "comorbidities": [],
+    "treatment_expectations": "Maintain peak performance, prevent injury",
+    "original_filename": "img_0177.png",
+    "demo_filepath": "osteoarthritis-severity/data/consensus/demo_patients/0Normal/DEMO_N001_img_0177.png"
+  },
+  "DEMO_N002_img_0078.png": {
+    "patient_id": "DEMO_N002",
+    "name": "Michael Rodriguez",
+    "age": 45,
+    "gender": "Male",
+    "occupation": "Construction Worker",
+    "symptoms": [
+      "None",
+      "Occupation-related screening"
+    ],
+    "medical_history": [
+      "Previous back injury (2019)"
+    ],
+    "medications": [
+      "Occasional ibuprofen"
+    ],
+    "activity_level": "High",
+    "bmi": 26.2,
+    "comorbidities": [],
+    "treatment_expectations": "Prevent work-related joint issues",
+    "original_filename": "img_0078.png",
+    "demo_filepath": "osteoarthritis-severity/data/consensus/demo_patients/0Normal/DEMO_N002_img_0078.png"
+  },
+  "DEMO_N003_img_0366.png": {
+    "patient_id": "DEMO_N003",
+    "name": "Eleanor Thompson",
+    "age": 72,
+    "gender": "Female",
+    "occupation": "Retired Teacher",
+    "symptoms": [
+      "None",
+      "Routine check-up"
+    ],
+    "medical_history": [
+      "Hypertension (controlled)",
+      "Osteoporosis"
+    ],
+    "medications": [
+      "Amlodipine",
+      "Calcium supplement"
+    ],
+    "activity_level": "Moderate",
+    "bmi": 22.8,
+    "comorbidities": [
+      "Hypertension",
+      "Osteoporosis"
+    ],
+    "treatment_expectations": "Stay active, maintain independence",
+    "original_filename": "img_0366.png",
+    "demo_filepath": "osteoarthritis-severity/data/consensus/demo_patients/0Normal/DEMO_N003_img_0366.png"
+  },
+  "DEMO_D001_img_0080.png": {
+    "patient_id": "DEMO_D001",
+    "name": "David Kim",
+    "age": 38,
+    "gender": "Male",
+    "occupation": "Software Engineer",
+    "symptoms": [
+      "Mild occasional knee pain",
+      "Stiffness after sitting"
+    ],
+    "medical_history": [
+      "No significant history"
+    ],
+    "medications": [
+      "None"
+    ],
+    "activity_level": "Moderate",
+    "bmi": 24.1,
+    "comorbidities": [],
+    "treatment_expectations": "Understand symptoms, prevent progression",
+    "original_filename": "img_0080.png",
+    "demo_filepath": "osteoarthritis-severity/data/consensus/demo_patients/1Doubtful/DEMO_D001_img_0080.png"
+  },
+  "DEMO_D002_img_0317.png": {
+    "patient_id": "DEMO_D002",
+    "name": "Lisa Johnson",
+    "age": 52,
+    "gender": "Female",
+    "occupation": "Elementary Teacher",
+    "symptoms": [
+      "Mild morning stiffness",
+      "Family history concern"
+    ],
+    "medical_history": [
+      "Mother had arthritis"
+    ],
+    "medications": [
+      "Multivitamin"
+    ],
+    "activity_level": "Moderate",
+    "bmi": 23.5,
+    "comorbidities": [],
+    "treatment_expectations": "Early intervention, prevent family pattern",
+    "original_filename": "img_0317.png",
+    "demo_filepath": "osteoarthritis-severity/data/consensus/demo_patients/1Doubtful/DEMO_D002_img_0317.png"
+  },
+  "DEMO_D003_img_0486.png": {
+    "patient_id": "DEMO_D003",
+    "name": "Robert Williams",
+    "age": 65,
+    "gender": "Male",
+    "occupation": "Retired Electrician",
+    "symptoms": [
+      "Morning stiffness",
+      "Occasional discomfort"
+    ],
+    "medical_history": [
+      "Type 2 diabetes (controlled)"
+    ],
+    "medications": [
+      "Metformin"
+    ],
+    "activity_level": "Moderate",
+    "bmi": 27.3,
+    "comorbidities": [
+      "Type 2 diabetes"
+    ],
+    "treatment_expectations": "Manage symptoms, stay active",
+    "original_filename": "img_0486.png",
+    "demo_filepath": "osteoarthritis-severity/data/consensus/demo_patients/1Doubtful/DEMO_D003_img_0486.png"
+  },
+  "DEMO_M001_img_0249.png": {
+    "patient_id": "DEMO_M001",
+    "name": "Amanda Davis",
+    "age": 42,
+    "gender": "Female",
+    "occupation": "Registered Nurse",
+    "symptoms": [
+      "Knee pain after long shifts",
+      "Occasional swelling"
+    ],
+    "medical_history": [
+      "Type 1 diabetes"
+    ],
+    "medications": [
+      "Insulin",
+      "Occasional NSAIDs"
+    ],
+    "activity_level": "High",
+    "bmi": 25.8,
+    "comorbidities": [
+      "Type 1 diabetes"
+    ],
+    "treatment_expectations": "Continue working, manage pain effectively",
+    "original_filename": "img_0249.png",
+    "demo_filepath": "osteoarthritis-severity/data/consensus/demo_patients/2Mild/DEMO_M001_img_0249.png"
+  },
+  "DEMO_M002_img_0216.png": {
+    "patient_id": "DEMO_M002",
+    "name": "James Parker",
+    "age": 56,
+    "gender": "Male",
+    "occupation": "Accountant",
+    "symptoms": [
+      "Knee pain with stairs",
+      "Stiffness after sitting"
+    ],
+    "medical_history": [
+      "No significant history"
+    ],
+    "medications": [
+      "None"
+    ],
+    "activity_level": "Low",
+    "bmi": 29.4,
+    "comorbidities": [],
+    "treatment_expectations": "Reduce pain, increase activity level",
+    "original_filename": "img_0216.png",
+    "demo_filepath": "osteoarthritis-severity/data/consensus/demo_patients/2Mild/DEMO_M002_img_0216.png"
+  },
+  "DEMO_M003_img_0195.png": {
+    "patient_id": "DEMO_M003",
+    "name": "Maria Santos",
+    "age": 68,
+    "gender": "Female",
+    "occupation": "Retired (Grandmother)",
+    "symptoms": [
+      "Joint pain",
+      "Difficulty with grandchildren activities"
+    ],
+    "medical_history": [
+      "Hypertension",
+      "High cholesterol"
+    ],
+    "medications": [
+      "Lisinopril",
+      "Atorvastatin"
+    ],
+    "activity_level": "Moderate",
+    "bmi": 26.7,
+    "comorbidities": [
+      "Hypertension",
+      "Hyperlipidemia"
+    ],
+    "treatment_expectations": "Play with grandchildren, maintain independence",
+    "original_filename": "img_0195.png",
+    "demo_filepath": "osteoarthritis-severity/data/consensus/demo_patients/2Mild/DEMO_M003_img_0195.png"
+  },
+  "DEMO_MO001_img_0034.png": {
+    "patient_id": "DEMO_MO001",
+    "name": "Kevin O'Brien",
+    "age": 48,
+    "gender": "Male",
+    "occupation": "Carpenter",
+    "symptoms": [
+      "Significant knee pain",
+      "Affecting work performance"
+    ],
+    "medical_history": [
+      "Previous knee injury (2015)"
+    ],
+    "medications": [
+      "Ibuprofen",
+      "Glucosamine"
+    ],
+    "activity_level": "High",
+    "bmi": 28.1,
+    "comorbidities": [],
+    "treatment_expectations": "Continue working, explore all treatment options",
+    "original_filename": "img_0034.png",
+    "demo_filepath": "osteoarthritis-severity/data/consensus/demo_patients/3Moderate/DEMO_MO001_img_0034.png"
+  },
+  "DEMO_MO002_img_0007.png": {
+    "patient_id": "DEMO_MO002",
+    "name": "Jennifer Lee",
+    "age": 59,
+    "gender": "Female",
+    "occupation": "Retail Manager",
+    "symptoms": [
+      "Daily knee pain",
+      "Difficulty with prolonged standing"
+    ],
+    "medical_history": [
+      "Hypertension",
+      "Anxiety"
+    ],
+    "medications": [
+      "Amlodipine",
+      "Sertraline",
+      "Naproxen"
+    ],
+    "activity_level": "Moderate",
+    "bmi": 27.9,
+    "comorbidities": [
+      "Hypertension",
+      "Anxiety"
+    ],
+    "treatment_expectations": "Improve pain management, maintain work capacity",
+    "original_filename": "img_0007.png",
+    "demo_filepath": "osteoarthritis-severity/data/consensus/demo_patients/3Moderate/DEMO_MO002_img_0007.png"
+  },
+  "DEMO_MO003_img_0183.png": {
+    "patient_id": "DEMO_MO003",
+    "name": "Thomas Anderson",
+    "age": 71,
+    "gender": "Male",
+    "occupation": "Retired Mechanic",
+    "symptoms": [
+      "Moderate to severe pain",
+      "Considering surgery"
+    ],
+    "medical_history": [
+      "Heart disease",
+      "Previous back surgery"
+    ],
+    "medications": [
+      "Aspirin",
+      "Metoprolol",
+      "Acetaminophen"
+    ],
+    "activity_level": "Low",
+    "bmi": 25.3,
+    "comorbidities": [
+      "Cardiovascular disease"
+    ],
+    "treatment_expectations": "Surgical evaluation, pain relief",
+    "original_filename": "img_0183.png",
+    "demo_filepath": "osteoarthritis-severity/data/consensus/demo_patients/3Moderate/DEMO_MO003_img_0183.png"
+  },
+  "DEMO_S001_img_0016.png": {
+    "patient_id": "DEMO_S001",
+    "name": "Patricia Miller",
+    "age": 54,
+    "gender": "Female",
+    "occupation": "Administrative Assistant",
+    "symptoms": [
+      "Severe daily pain",
+      "Significant functional limitation"
+    ],
+    "medical_history": [
+      "Fibromyalgia",
+      "Depression"
+    ],
+    "medications": [
+      "Duloxetine",
+      "Tramadol",
+      "Topical analgesics"
+    ],
+    "activity_level": "Low",
+    "bmi": 31.2,
+    "comorbidities": [
+      "Fibromyalgia",
+      "Depression"
+    ],
+    "treatment_expectations": "Comprehensive pain management, improve quality of life",
+    "original_filename": "img_0016.png",
+    "demo_filepath": "osteoarthritis-severity/data/consensus/demo_patients/4Severe/DEMO_S001_img_0016.png"
+  },
+  "DEMO_S002_img_0010.png": {
+    "patient_id": "DEMO_S002",
+    "name": "Carlos Hernandez",
+    "age": 62,
+    "gender": "Male",
+    "occupation": "Former Professional Soccer Player",
+    "symptoms": [
+      "Severe bilateral knee pain",
+      "Multiple joint involvement"
+    ],
+    "medical_history": [
+      "Multiple sports injuries",
+      "Previous knee surgeries"
+    ],
+    "medications": [
+      "Celecoxib",
+      "Hyaluronic acid injections"
+    ],
+    "activity_level": "Moderate",
+    "bmi": 26.8,
+    "comorbidities": [],
+    "treatment_expectations": "Joint replacement evaluation, maintain mobility",
+    "original_filename": "img_0010.png",
+    "demo_filepath": "osteoarthritis-severity/data/consensus/demo_patients/4Severe/DEMO_S002_img_0010.png"
+  },
+  "DEMO_S003_img_0202.png": {
+    "patient_id": "DEMO_S003",
+    "name": "Betty Wilson",
+    "age": 76,
+    "gender": "Female",
+    "occupation": "Retired",
+    "symptoms": [
+      "Severe pain",
+      "Requires assistance with daily activities"
+    ],
+    "medical_history": [
+      "Diabetes",
+      "Hypertension",
+      "Osteoporosis"
+    ],
+    "medications": [
+      "Metformin",
+      "Lisinopril",
+      "Alendronate",
+      "Oxycodone"
+    ],
+    "activity_level": "Low",
+    "bmi": 23.1,
+    "comorbidities": [
+      "Type 2 diabetes",
+      "Hypertension",
+      "Osteoporosis"
+    ],
+    "treatment_expectations": "Pain management, maintain basic independence",
+    "original_filename": "img_0202.png",
+    "demo_filepath": "osteoarthritis-severity/data/consensus/demo_patients/4Severe/DEMO_S003_img_0202.png"
+  }
+}

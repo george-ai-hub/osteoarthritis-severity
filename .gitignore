@@ -1,0 +1,184 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+.virtual_documents/
+
+# PyTorch
+*.pth
+*.pt
+
+# Data files (large datasets)
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Dataset images and large data directories (keep repo small)
+# Keep documentation files
+data/kaggle/**
+data/consensus/train/**
+data/consensus/val/**
+data/consensus/test/**
+data/consensus/expert_disagreements/**
+!data/README.md
+!data/consensus/demo_patients/**
+!data/consensus/demo_patients/demo_patients_metadata.json
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+.cursorrules
+*.swp
+*.swo
+*~
+
+# Anaconda
+anaconda_projects/
+
+# Model files (often large) - EXCLUDE from Git due to size limits
+models/*.h5
+models/*.pkl
+models/*.pth
+models/*.pt
+models/*.ckpt
+
+# Large deployment models - exclude to prevent GitHub size issues
+models/deployment/*.pth
+models/deployment/*.pt
+models/deployment/*.h5
+models/deployment/*.pkl
+models/deployment/*.ckpt
+
+# BUT INCLUDE model download and setup scripts (these are source code)
+!download_models.py
+!setup_models.py
+!MODEL_HOSTING_GUIDE.md
+
+# PDF Reports - generated content
+*.pdf
+
+# Project documentation (keep locally; exclude from repo)
+docs/
+
+# Generated batch processing summaries
+batch_processing/
+
+# Results with large model files
+results/**/*.pth
+results/**/*.pt
+results/**/*.pkl
+results/**/*.h5
+results/**/*.ckpt
+
+# Results and outputs
+*.log
+*.out
+results/temp/
+results/cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Streamlit secrets
+# Ignore everything under .streamlit except the template
+.streamlit/*
+!.streamlit/secrets.toml.template
+
+# Clinical Documents - NEVER commit patient data
+clinical_documents/
+*.pdf
+*.json
+
+# Patient Data Protection
+patient_reports/
+clinical_reviews/
+flagged_cases/
+second_opinion/
+
+# FINAL EXCEPTIONS: include PDFs under pdf_reports so users can preview output
+!pdf_reports/*.pdf
+!pdf_reports/**/*.pdf
+
+# Re-include essential demo metadata JSON required by the app
+!data/consensus/demo_patients/demo_patients_metadata.json
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# PEP 582
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json 

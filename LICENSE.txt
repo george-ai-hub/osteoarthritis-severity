@@ -1,0 +1,50 @@
+Educational and Research License
+
+Copyright (c) 2025 George Ford
+
+## PERMITTED USES
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to:
+
+1. **View and Study**: Examine the source code for educational purposes, skill evaluation, or learning
+2. **Personal Use**: Run the software for personal education, research, or portfolio demonstration
+3. **Educational Use**: Use in academic settings for teaching, learning, or student projects
+4. **Skills Assessment**: Use by potential employers, collaborators, or peers to evaluate technical competency
+
+## PROHIBITED USES
+
+The following uses are strictly prohibited:
+
+1. **Commercial Use**: No commercial use, distribution for profit, or incorporation into commercial products or services
+2. **Medical Diagnosis**: No use for actual medical diagnosis, clinical decision-making, or patient care
+3. **Clinical Applications**: No deployment in healthcare settings for diagnostic purposes
+4. **Sublicensing**: No sublicensing or redistribution under different terms
+
+## CONDITIONS
+
+The above permissions are granted provided that:
+
+- This license notice and copyright notice are included in all copies or substantial portions of the Software
+- Any derivative works or modifications are clearly marked as such
+- The software is not represented as suitable for medical diagnosis or clinical use
+
+## DISCLAIMERS
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## MEDICAL DISCLAIMER
+
+**CRITICAL**: This software is a research and educational project demonstrating machine learning techniques for image classification. It is **NOT** a medical device and **MUST NOT** be used for:
+- Medical diagnosis or clinical decision-making
+- Patient care or treatment planning  
+- Any healthcare-related decisions
+
+**Always consult qualified healthcare professionals for medical advice and diagnosis.**
+
+## CONTACT
+
+For questions about licensing or permitted uses, please contact the repository owner through GitHub.
+
+---
+
+*This license is designed to showcase technical skills while ensuring responsible use of AI in healthcare contexts.*
